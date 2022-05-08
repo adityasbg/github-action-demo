@@ -42,4 +42,5 @@ jobs:
           echo  print environment 
           env
           whoami
+          pwd
       
